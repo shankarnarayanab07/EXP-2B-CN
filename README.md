@@ -9,7 +9,7 @@
 6. Stop the Program
 ## PROGRAM
 ## Server.py:
-```
+```python
 import socket
 
 s = socket.socket()
@@ -44,7 +44,7 @@ s.close()
 ```
 
 ## Client.py:
-```
+```python
 import socket
 
 s = socket.socket()
